@@ -1,2 +1,2 @@
 # PROJECT1
-# This is my first project 
+# C++ based vowel recognization system 
